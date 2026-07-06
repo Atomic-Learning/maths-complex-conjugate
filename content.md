@@ -1,4 +1,4 @@
-A complex number written in rectangular form as $z = x + iy$ has a natural partner obtained by flipping the sign of its imaginary part. This partner, the *complex conjugate*, appears throughout complex arithmetic — for example when dividing complex numbers or when computing a modulus.
+A complex number written in rectangular form as $z = x + iy$ has a natural partner obtained by flipping the sign of its imaginary part. This partner, the *complex conjugate*, appears throughout complex arithmetic.
 
 # Definition
 
@@ -8,20 +8,10 @@ $$
 z^* \equiv x - iy
 $$
 
-Taking the conjugate twice returns the original number, so conjugation is an *involutory* operation:
+Taking the conjugate twice returns the original number:
 
 $$
 (z^*)^* = z
-$$
-
-# Properties
-
-Conjugation distributes over addition, subtraction, and multiplication, and it commutes with taking the multiplicative inverse:
-
-$$
-(z_1 \pm z_2)^* = z_1^* \pm z_2^* \\
-(z_1 \cdot z_2)^* = z_1^* \cdot z_2^* \\
-(z^{-1})^* = (z^*)^{-1}
 $$
 
 # Recovering the Real and Imaginary Parts
