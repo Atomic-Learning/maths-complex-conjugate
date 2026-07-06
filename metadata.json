@@ -1,7 +1,7 @@
 {
     "title": "Maths: Complex Conjugate",
     "slug": "maths-complex-conjugate",
-    "description": "Introduces the complex conjugate of a complex number, formed by negating the imaginary part, and covers its involutory nature, its distribution over addition and multiplication, and how it recovers the real and imaginary parts of a complex number.",
+    "description": "Introduces the complex conjugate of a complex number, formed by negating the imaginary part, and covers its involutory nature, and how it recovers the real and imaginary parts of a complex number.",
     "authors": [
         "chris-cooling"
     ],
